@@ -1,0 +1,15 @@
+.chores {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20 px;
+}
+.chores {
+    color:rgb(63, 208, 208)
+}
+.chores h2 {
+    text-decoration: underline;
+  }
+  
+  /* The chores in the list should be italicized */
+  .chores {
+    font-style: italic;
+  }

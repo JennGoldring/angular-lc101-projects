@@ -1,5 +1,5 @@
 h3 {
-   color: brown;
+   color: rgb(9, 133, 88);
 }
 
 img {
@@ -8,4 +8,8 @@ img {
 
 .photos {
    text-align: center;
+}
+img {
+   width: 40%;
+   height: auto;
 }
